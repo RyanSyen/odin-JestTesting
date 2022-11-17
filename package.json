@@ -1,0 +1,23 @@
+{
+  "name": "odin-jesttesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanSyen/odin-JestTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanSyen/odin-JestTesting/issues"
+  },
+  "homepage": "https://github.com/RyanSyen/odin-JestTesting#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
